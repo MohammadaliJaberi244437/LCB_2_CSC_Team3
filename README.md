@@ -13,7 +13,7 @@ This project is an AI-driven customer service assistant developed for **Brabants
 - **RAG-Based Knowledge**: Uses a custom **Knowledge Base** specifically for Brabants Streekgoed products and pickup locations.
 
 ## 🛠️ Tech Stack
-- **Model:** `llama3.1:8b` (hosted on BUas Ollama Server)
+- **Model:** `qwen3:14b` (hosted on BUas Ollama Server)
 - **Language:** Python 3.11
 - **Messaging Gateway:** Green-API
 - **Environment:** Jupyter Notebook
